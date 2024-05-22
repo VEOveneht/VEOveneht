@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 -->
-- 🌱 I’m currently learning reactjs (veoveneht.eu.org)
+- 🌱 I’m currently learning reactjs (<a href="https/veoveneht.eu.org">VEOveneht</a>)
 - 👯 I’m looking to collaborate on frontend
 - 📫 How to reach me: <a href="wa.me/6283113810321?text=Am%20Github!☺%20">WhatsApp</a>
 - 😄 Pronouns: he/him am a male FR FR
