@@ -13,9 +13,9 @@
 - ⚡ Fun fact: i like to wasting my time with my manga Lol
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dirgaastya&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dirgaastya&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dirgaastya&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VEOveneht&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VEOveneht&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VEOveneht&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img href="./ankouguisu.gif"/>
 
