@@ -48,7 +48,9 @@
 -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VEOveneht&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in" align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VEOveneht&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 
 <img href="./ankouguisu.gif"/>
 
