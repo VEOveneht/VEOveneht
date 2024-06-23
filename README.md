@@ -2,7 +2,7 @@
 
 ### About Me:
 | CORE | | Trophies |
-|-----| |-----|
+|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | | ![Trophies](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4) |
 - Currently Learning ReactJS <a target='_blank' href="https://www.veoveneht.eu.org">VEOveneht</a>
 - Looking to collaborate on frontend
