@@ -1,10 +1,9 @@
 <p align="center"><img src="https://c.tenor.com/GrOZNL13djQAAAAd/tenor.gif" /></p>
 
 ### About Me:
-| CORE |
-|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
-![Trophies](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4)
+| CORE | | Trophies |
+|-----| |-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | | ![Trophies](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4) |
 - Currently Learning ReactJS <a target='_blank' href="https://www.veoveneht.eu.org">VEOveneht</a>
 - Looking to collaborate on frontend
 - How to reach me: <a href="wa.me/6283113810321?text=Am%20From%20Github!☺/">WhatsApp</a>
