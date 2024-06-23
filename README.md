@@ -39,6 +39,9 @@
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=VEOveneht&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEOveneht&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=VEOveneht&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  </a>
 </p>
 
 <!--
@@ -46,11 +49,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VEOveneht&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VEOveneht&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-
----
-<a href="https://visitcount.itsvg.in" align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VEOveneht&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
 
 <img href="./ankouguisu.gif"/>
 
