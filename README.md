@@ -9,6 +9,7 @@
 - How to reach me: <a href="wa.me/6283113810321?text=Am%20From%20Github!☺/">WhatsApp</a>
 - Pronouns: he/him am a male FR FR
 - Fun fact: i like to wasting my time with my Manga Lol
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4)
 
 ### Social Media: 🌐
