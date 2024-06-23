@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"><img src="https://c.tenor.com/GrOZNL13djQAAAAd/tenor.gif" /></p>
 
 ### About Me:
@@ -23,15 +23,15 @@
 
 # Tech Stack: 💻
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5" alt="HTML5" height="30" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" height="30" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript" alt="JavaScript" height="30" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ReactJS-gray?style=for-the-badge&logo=react" alt="ReactJS" height="30" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=node.js" alt="NodeJS" height="30" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5logoColor=white" alt="HTML5" height="30" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" height="30" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" height="30" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express" alt="ExpressJS" height="30" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=firebase" alt="Firebase" height="30" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" height="30" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python" alt="Python" height="30" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Figma-wheat?style=for-the-badge&logo=figma" alt="Figma" height="30" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>
 </div>
 
 # GitHub Stats: 📊
