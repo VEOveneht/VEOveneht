@@ -1,25 +1,27 @@
 <h1 align="center">Hey There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center"><img src="https://c.tenor.com/GrOZNL13djQAAAAd/tenor.gif" /></p>
 
-<!-- 
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
--->
-- My Core: JavaScript
-- 🌱 I’m currently learning reactjs (<a target='_blank' href="https://www.veoveneht.eu.org">VEOveneht</a>)
-- 👯 I’m looking to collaborate on frontend
-- 📫 How to reach me: <a href="wa.me/6283113810321?text=Am%20Github!☺%20">WhatsApp</a>
-- 😄 Pronouns: he/him am a male FR FR
-- ⚡ Fun fact: i like to wasting my time with my manga Lol
+### About Me:
+| CORE |
+|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+- Currently learning reactjs (<a target='_blank' href="https://www.veoveneht.eu.org">VEOveneht</a>)
+- Looking to collaborate on frontend
+- How to reach me: <a href="wa.me/6283113810321?text=Am%20From%20Github!☺/">WhatsApp</a>
+- Pronouns: he/him am a male FR FR
+- Fun fact: i like to wasting my time with my Manga Lol
 
-# 🌐 Social:
+### Social Media: 🌐
 <p align="center">
 <a href="https://www.instagram.com/loo3837955ol"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 <a href="https://wa.me/6283113810321"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-# 💻 Tech Stack: 
+### Working On: 🚀
+- Learning (<a target='_blank' href="https://www.veoveneht.eu.org">ReactJS</a>) for My Website
+- Bot for WhatsApp using JavaScript <a target='_blank' href='https://github.com/VEOveneht/VeoMD'>Here</a>
+
+# Tech Stack: 💻
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5" alt="HTML5" height="30" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" height="30" /></a>
@@ -32,7 +34,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Figma-wheat?style=for-the-badge&logo=figma" alt="Figma" height="30" /></a>
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats: 📊
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=VEOveneht&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
