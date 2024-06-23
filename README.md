@@ -5,7 +5,7 @@
 | CORE |
 |-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
-- Currently learning reactjs (<a target='_blank' href="https://www.veoveneht.eu.org">VEOveneht</a>)
+- Currently Learning ReactJS <a target='_blank' href="https://www.veoveneht.eu.org">VEOveneht</a>
 - Looking to collaborate on frontend
 - How to reach me: <a href="wa.me/6283113810321?text=Am%20From%20Github!☺/">WhatsApp</a>
 - Pronouns: he/him am a male FR FR
@@ -18,7 +18,7 @@
 </p>
 
 ### Working On: 🚀
-- Learning (<a target='_blank' href="https://www.veoveneht.eu.org">ReactJS</a>) for My Website
+- Learning <a target='_blank' href="https://www.veoveneht.eu.org">ReactJS</a> for My Website
 - Bot for WhatsApp using JavaScript <a target='_blank' href='https://github.com/VEOveneht/VeoMD'>Here</a>
 
 # Tech Stack: 💻
