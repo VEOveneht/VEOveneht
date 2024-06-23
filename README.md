@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VEOveneht&title=Stars,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true&margin-w=4" />
+</p>
 <p align="center"><img src="https://c.tenor.com/GrOZNL13djQAAAAd/tenor.gif" /></p>
 
 ### About Me:
